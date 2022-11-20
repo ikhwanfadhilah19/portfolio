@@ -1,14 +1,7 @@
-## Author✨
-Ikhwan Fadhilah
-
-## About💨
-
-This is my portfolio, You can find out about me here
-
-## For Feedback💢
+## For Feedback
 
 DM Me on Instagram [Here](https://www.instagram.com/dooo_dott/)
 
-## License💎
+## License
 
 ©2022 All Right Reserved - Developed by Ikhwan Fadhilah
