@@ -3,7 +3,7 @@ Ikhwan Fadhilah
 
 ## About💨
 
-This my portfolio, You can find out about me here
+This is my portfolio, You can find out about me here
 
 ## For Feedback💢
 
